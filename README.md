@@ -1,1 +1,1 @@
-# Staircase
+# Staircase This program prints a right-aligned staircase of height n using spaces and hash symbols (#). The staircase function uses nested loops to print the correct number of spaces followed by hashes on each line.
